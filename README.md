@@ -19,7 +19,7 @@ cassandra-crud-tutorial/
 Ensure you have Cassandra installed on your machine. If not, install it using:
 
 ### **Windows**
-1. Download and install DataStax Cassandra from [DataStax Official Site](https://downloads.datastax.com/#od).
+1. Download and install DataStax Cassandra from [DataStax Official Site](https://datastax-community-edition.software.informer.com/download).
 2. Open Cassandra CQL Shell
 
 ### **Linux (Ubuntu-based WSL)**
